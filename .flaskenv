@@ -1,0 +1,3 @@
+FLASK_APP=app.py
+FLASK_ENV=development
+FLAS_RUN_HOST=0.0.0.0
